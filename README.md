@@ -31,8 +31,6 @@ Virtual World is a social media platform that facilitates user interactions with
 
     ```bash
     cd virtual-world
-    # Assuming you're using virtual environment
-    pip install -r requirements.txt
     ```
 
 3. Run migrations:
