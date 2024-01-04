@@ -27,7 +27,7 @@ Virtual World is a social media platform that facilitates user interactions with
     git clone https://github.com/Anwar1020/Virtual_World.git
     ```
 
-2. Install dependencies:
+2. Browse to the project(Which directory contains manage.py file)::
 
     ```bash
     cd virtual-world
