@@ -24,7 +24,7 @@ Virtual World is a social media platform that facilitates user interactions with
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/anwar1020/virtual-world.git
+    git clone https://github.com/Anwar1020/Virtual_World.git
     ```
 
 2. Install dependencies:
